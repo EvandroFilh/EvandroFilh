@@ -41,3 +41,47 @@ class Programmer
 <figure>
 	<embed src="https://wakatime.com/share/@marcodotcastro/7cd3cbfb-1783-43d5-9708-4d309157fe7a.svg"></embed></figure>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Evandro Ribeiro</title>
+</head>
+<body>
+
+<h1>Olá, eu sou Evandro Ribeiro</h1>
+
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+
+<h3>Languages and Tools:</h3>
+<p>
+    <strong>High Skill:</strong><br>
+    Ruby, Rails, RubyMine, Oracle, Git, GitHub, Linux, PHP, Java, Ubuntu<br><br>
+    
+    <strong>Medium Skill:</strong><br>
+    Amazon Web Services, Docker, Laravel, JavaScript, PostgreSQL<br><br>
+    
+    <strong>Low Skill:</strong><br>
+    Vue.js, Python, Redis
+</p>
+
+</body>
+</html>
+
